@@ -1,0 +1,17 @@
+currencies = [
+ "AUD",
+ "BRL",
+ "CAD",
+ "CDF",
+ "CHF",
+ "CLP",
+ "CNY",
+ "COP",
+ "CRC",
+ "ZWL",
+ "CUP", 
+ "CVE",
+ "CZK",
+ "JPY",
+ "USD",
+];
